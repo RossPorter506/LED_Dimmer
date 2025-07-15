@@ -176,7 +176,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/d4c1cf8c-8e5d-4ea0-bf24-48d946174ded")
 		(sheetname "/")
-		(sheetfile "12V_LED_Dimmer.kicad_sch")
+		(sheetfile "LED_Dimmer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 -0.735)
@@ -376,7 +376,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/cbd5fe2c-4da9-4b23-9b05-c947778895a6")
 		(sheetname "/")
-		(sheetfile "12V_LED_Dimmer.kicad_sch")
+		(sheetfile "LED_Dimmer.kicad_sch")
 		(attr through_hole allow_missing_courtyard dnp)
 		(fp_line
 			(start 1.38 1.270001)
@@ -667,7 +667,7 @@
 		)
 		(path "/a80b7152-54f9-493c-beb2-43dde005c6a4")
 		(sheetname "/")
-		(sheetfile "12V_LED_Dimmer.kicad_sch")
+		(sheetfile "LED_Dimmer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0 1.56)
@@ -1001,7 +1001,7 @@
 		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm*")
 		(path "/9ed15a72-40e0-4491-8a4c-d3336a5b3eb7")
 		(sheetname "/")
-		(sheetfile "12V_LED_Dimmer.kicad_sch")
+		(sheetfile "LED_Dimmer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.000002 2.559997)
@@ -1385,7 +1385,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/0d29c1de-dcb4-4b3b-860f-23e419480a71")
 		(sheetname "/")
-		(sheetfile "12V_LED_Dimmer.kicad_sch")
+		(sheetfile "LED_Dimmer.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -1713,7 +1713,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/3014a681-fe8c-4edb-a854-a5e18833587d")
 		(sheetname "/")
-		(sheetfile "12V_LED_Dimmer.kicad_sch")
+		(sheetfile "LED_Dimmer.kicad_sch")
 		(attr through_hole allow_missing_courtyard dnp)
 		(fp_line
 			(start -1.38 -1.38)
@@ -1967,7 +1967,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/110b94b7-d960-4268-962f-5f9c175f379f")
 		(sheetname "/")
-		(sheetfile "12V_LED_Dimmer.kicad_sch")
+		(sheetfile "LED_Dimmer.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -2072,7 +2072,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/f61a7496-28e1-4ad1-832a-81c3120d9e98")
 		(sheetname "/")
-		(sheetfile "12V_LED_Dimmer.kicad_sch")
+		(sheetfile "LED_Dimmer.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -2177,7 +2177,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/69d3d467-e374-4097-aa32-9b135745dc66")
 		(sheetname "/")
-		(sheetfile "12V_LED_Dimmer.kicad_sch")
+		(sheetfile "LED_Dimmer.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -2283,7 +2283,7 @@
 		(property ki_fp_filters "BarrelJack*")
 		(path "/db94000a-7a62-40fb-9a0b-683754a075c4")
 		(sheetname "/")
-		(sheetfile "12V_LED_Dimmer.kicad_sch")
+		(sheetfile "LED_Dimmer.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -4.599999 13.800001)
@@ -2650,7 +2650,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/90e516d5-118c-4f50-bba5-6eefd8c15a95")
 		(sheetname "/")
-		(sheetfile "12V_LED_Dimmer.kicad_sch")
+		(sheetfile "LED_Dimmer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 -0.735)
@@ -2849,7 +2849,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/64e4923c-c55e-47c8-a742-8f7780e347e4")
 		(sheetname "/")
-		(sheetfile "12V_LED_Dimmer.kicad_sch")
+		(sheetfile "LED_Dimmer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227065 0.734999)
@@ -3050,7 +3050,7 @@
 		(property ki_fp_filters "BarrelJack*")
 		(path "/c13ec26c-1a77-4b97-b08c-5c760ae7cfc4")
 		(sheetname "/")
-		(sheetfile "12V_LED_Dimmer.kicad_sch")
+		(sheetfile "LED_Dimmer.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -3.200001 -1.000002)
@@ -3668,7 +3668,7 @@
 		(property ki_fp_filters "D*SOD?123*")
 		(path "/0e0c95ba-9647-4ab9-9cf1-b87f12ccee99")
 		(sheetname "/")
-		(sheetfile "12V_LED_Dimmer.kicad_sch")
+		(sheetfile "LED_Dimmer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.359996 0.999998)
@@ -3911,7 +3911,7 @@
 				)
 			)
 		)
-		(property "Value" "D_Schottky"
+		(property "Value" "SS0520_R1_00001"
 			(at 0 2.1 0)
 			(layer "F.Fab")
 			(uuid "8fbf7f68-30aa-4cf4-b451-9c3e73f27cef")
@@ -3951,7 +3951,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/ea69347f-ccf2-4f84-94f5-4b8c68af0707")
 		(sheetname "/")
-		(sheetfile "12V_LED_Dimmer.kicad_sch")
+		(sheetfile "LED_Dimmer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.359997 1.000001)
@@ -4232,7 +4232,7 @@
 		(property ki_fp_filters "Potentiometer*")
 		(path "/8c8a2e5c-fe51-444b-8aa5-00c091cbe1b8")
 		(sheetname "/")
-		(sheetfile "12V_LED_Dimmer.kicad_sch")
+		(sheetfile "LED_Dimmer.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 13.110004 2.459999)
@@ -4532,7 +4532,7 @@
 		(property ki_fp_filters "D*SOD?123*")
 		(path "/45aa07a0-a9b4-4d05-a1a1-8ba18ddf2dfa")
 		(sheetname "/")
-		(sheetfile "12V_LED_Dimmer.kicad_sch")
+		(sheetfile "LED_Dimmer.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.359998 -1)
@@ -4819,7 +4819,7 @@
 		(property ki_fp_filters "BarrelJack*")
 		(path "/32633555-bd81-470a-9795-796593280e53")
 		(sheetname "/")
-		(sheetfile "12V_LED_Dimmer.kicad_sch")
+		(sheetfile "LED_Dimmer.kicad_sch")
 		(attr through_hole dnp)
 		(fp_line
 			(start 4.599999 -13.800001)
@@ -5192,7 +5192,7 @@
 		(property ki_fp_filters "BarrelJack*")
 		(path "/7bcba0ba-597b-4aa9-92d9-c456c1406b63")
 		(sheetname "/")
-		(sheetfile "12V_LED_Dimmer.kicad_sch")
+		(sheetfile "LED_Dimmer.kicad_sch")
 		(attr through_hole dnp)
 		(fp_line
 			(start -4.900001 0.999999)
@@ -6080,6 +6080,18 @@
 		(at 115.75 52.5 0)
 		(layer "F.SilkS")
 		(uuid "6e984f65-2bdf-4426-a195-c262670bb5fd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "JLCJLCJLCJLC"
+		(at 86.5 35.25 0)
+		(layer "F.SilkS")
+		(uuid "d9fe5f66-b63d-455d-9c53-af7cfa4f1b2d")
 		(effects
 			(font
 				(size 1 1)
