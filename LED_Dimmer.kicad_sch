@@ -4987,7 +4987,7 @@
 			(uuid "9455d8e7-d6d6-4e67-8835-69d8a669a583")
 		)
 		(instances
-			(project "12V_LED_Dimmer"
+			(project "LED_Dimmer"
 				(path "/c254ffe1-0ac5-418b-b36c-0b6c5bd5ec7d"
 					(reference "#PWR04")
 					(unit 1)
@@ -5277,7 +5277,7 @@
 			(uuid "a9bb31a4-b043-411b-b862-110572047fa1")
 		)
 		(instances
-			(project "12V_LED_Dimmer"
+			(project "LED_Dimmer"
 				(path "/c254ffe1-0ac5-418b-b36c-0b6c5bd5ec7d"
 					(reference "#PWR017")
 					(unit 1)
@@ -5343,7 +5343,7 @@
 			(uuid "0a266aa2-f1c4-4c0d-b6ec-be70c8c00cce")
 		)
 		(instances
-			(project "12V_LED_Dimmer"
+			(project "LED_Dimmer"
 				(path "/c254ffe1-0ac5-418b-b36c-0b6c5bd5ec7d"
 					(reference "#PWR06")
 					(unit 1)
@@ -5481,7 +5481,7 @@
 			(uuid "55ad6dbb-13c0-46c0-ae31-c891289dc653")
 		)
 		(instances
-			(project "12V_LED_Dimmer"
+			(project "LED_Dimmer"
 				(path "/c254ffe1-0ac5-418b-b36c-0b6c5bd5ec7d"
 					(reference "J_PS2")
 					(unit 1)
@@ -5547,7 +5547,7 @@
 			(uuid "132d56f7-7b31-46ed-8434-d204458c488d")
 		)
 		(instances
-			(project "12V_LED_Dimmer"
+			(project "LED_Dimmer"
 				(path "/c254ffe1-0ac5-418b-b36c-0b6c5bd5ec7d"
 					(reference "#PWR014")
 					(unit 1)
@@ -5766,7 +5766,7 @@
 			(uuid "b0cb379d-364f-4380-9c51-97c305624245")
 		)
 		(instances
-			(project "12V_LED_Dimmer"
+			(project "LED_Dimmer"
 				(path "/c254ffe1-0ac5-418b-b36c-0b6c5bd5ec7d"
 					(reference "#PWR03")
 					(unit 1)
@@ -5903,7 +5903,7 @@
 			(uuid "68581d15-b4cb-4fdb-bba6-9f71c9c42d33")
 		)
 		(instances
-			(project "12V_LED_Dimmer"
+			(project "LED_Dimmer"
 				(path "/c254ffe1-0ac5-418b-b36c-0b6c5bd5ec7d"
 					(reference "MH4")
 					(unit 1)
@@ -5969,7 +5969,7 @@
 			(uuid "8c56ffa7-4f32-4476-8158-f1be9cf49274")
 		)
 		(instances
-			(project "12V_LED_Dimmer"
+			(project "LED_Dimmer"
 				(path "/c254ffe1-0ac5-418b-b36c-0b6c5bd5ec7d"
 					(reference "#PWR09")
 					(unit 1)
@@ -6039,7 +6039,7 @@
 			(uuid "48efddce-9208-48eb-9109-67d9a6192f7c")
 		)
 		(instances
-			(project "12V_LED_Dimmer"
+			(project "LED_Dimmer"
 				(path "/c254ffe1-0ac5-418b-b36c-0b6c5bd5ec7d"
 					(reference "J_LED2")
 					(unit 1)
@@ -6104,7 +6104,7 @@
 			(uuid "670903fe-beab-430d-8b55-a5f2945e8615")
 		)
 		(instances
-			(project "12V_LED_Dimmer"
+			(project "LED_Dimmer"
 				(path "/c254ffe1-0ac5-418b-b36c-0b6c5bd5ec7d"
 					(reference "#PWR011")
 					(unit 1)
@@ -6243,7 +6243,7 @@
 			(uuid "463e3be6-6aed-4492-a2a2-ede36f8cb576")
 		)
 		(instances
-			(project "12V_LED_Dimmer"
+			(project "LED_Dimmer"
 				(path "/c254ffe1-0ac5-418b-b36c-0b6c5bd5ec7d"
 					(reference "#PWR08")
 					(unit 1)
@@ -6626,7 +6626,7 @@
 			(uuid "d95af399-06f6-4ea2-84fc-b9876819c124")
 		)
 		(instances
-			(project "12V_LED_Dimmer"
+			(project "LED_Dimmer"
 				(path "/c254ffe1-0ac5-418b-b36c-0b6c5bd5ec7d"
 					(reference "#PWR019")
 					(unit 1)
@@ -6692,7 +6692,7 @@
 			(uuid "1a82fa95-e29c-4a28-8f8f-db97a813e4d6")
 		)
 		(instances
-			(project "12V_LED_Dimmer"
+			(project "LED_Dimmer"
 				(path "/c254ffe1-0ac5-418b-b36c-0b6c5bd5ec7d"
 					(reference "#PWR05")
 					(unit 1)
@@ -6758,7 +6758,7 @@
 			(uuid "77289456-3d29-4c4a-91ef-3a7dbd2a4d94")
 		)
 		(instances
-			(project "12V_LED_Dimmer"
+			(project "LED_Dimmer"
 				(path "/c254ffe1-0ac5-418b-b36c-0b6c5bd5ec7d"
 					(reference "#PWR015")
 					(unit 1)
@@ -6823,7 +6823,7 @@
 			(uuid "d0716d48-6647-4e49-90a8-4df5a099f234")
 		)
 		(instances
-			(project "12V_LED_Dimmer"
+			(project "LED_Dimmer"
 				(path "/c254ffe1-0ac5-418b-b36c-0b6c5bd5ec7d"
 					(reference "#PWR018")
 					(unit 1)
@@ -6894,7 +6894,7 @@
 			(uuid "cbf01f96-b53c-4e05-9568-70836dfa4a02")
 		)
 		(instances
-			(project "12V_LED_Dimmer"
+			(project "LED_Dimmer"
 				(path "/c254ffe1-0ac5-418b-b36c-0b6c5bd5ec7d"
 					(reference "J_LED1")
 					(unit 1)
@@ -6960,7 +6960,7 @@
 			(uuid "fb7e6365-a56f-43ae-ab6f-964a8b77c0b1")
 		)
 		(instances
-			(project "12V_LED_Dimmer"
+			(project "LED_Dimmer"
 				(path "/c254ffe1-0ac5-418b-b36c-0b6c5bd5ec7d"
 					(reference "#PWR010")
 					(unit 1)
@@ -7030,7 +7030,7 @@
 			(uuid "872b8286-15eb-48a9-a20d-8c747fc9b1dc")
 		)
 		(instances
-			(project "12V_LED_Dimmer"
+			(project "LED_Dimmer"
 				(path "/c254ffe1-0ac5-418b-b36c-0b6c5bd5ec7d"
 					(reference "J2")
 					(unit 1)
@@ -7165,7 +7165,7 @@
 			(uuid "bc8ed555-9384-4f85-9767-dd34ce1993fa")
 		)
 		(instances
-			(project "12V_LED_Dimmer"
+			(project "LED_Dimmer"
 				(path "/c254ffe1-0ac5-418b-b36c-0b6c5bd5ec7d"
 					(reference "#PWR07")
 					(unit 1)
@@ -7302,7 +7302,7 @@
 			(uuid "c9d5888d-c2a3-4ee3-b2ec-1dea4ff7e964")
 		)
 		(instances
-			(project "12V_LED_Dimmer"
+			(project "LED_Dimmer"
 				(path "/c254ffe1-0ac5-418b-b36c-0b6c5bd5ec7d"
 					(reference "#PWR016")
 					(unit 1)
@@ -7435,7 +7435,7 @@
 			(uuid "4c03a4c4-7f70-475c-8737-05c7710942b0")
 		)
 		(instances
-			(project "12V_LED_Dimmer"
+			(project "LED_Dimmer"
 				(path "/c254ffe1-0ac5-418b-b36c-0b6c5bd5ec7d"
 					(reference "#PWR012")
 					(unit 1)
@@ -7569,7 +7569,7 @@
 			(uuid "477e21a2-f516-469b-93e7-5226396eee51")
 		)
 		(instances
-			(project "12V_LED_Dimmer"
+			(project "LED_Dimmer"
 				(path "/c254ffe1-0ac5-418b-b36c-0b6c5bd5ec7d"
 					(reference "#PWR013")
 					(unit 1)
