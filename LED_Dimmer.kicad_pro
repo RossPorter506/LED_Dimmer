@@ -621,7 +621,7 @@
       "idf": "",
       "netlist": "",
       "plot": "Gerbers/",
-      "pos_files": "",
+      "pos_files": "PickPlace/",
       "specctra_dsn": "",
       "step": "",
       "svg": "",

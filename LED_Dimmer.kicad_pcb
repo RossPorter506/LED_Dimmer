@@ -3602,7 +3602,7 @@
 				)
 			)
 		)
-		(property "Value" "1N4148"
+		(property "Value" "1N4148W"
 			(at 0 2.1 0)
 			(layer "F.Fab")
 			(uuid "642ffb46-33b6-4d98-aec0-c4352d6679cd")
@@ -4466,7 +4466,7 @@
 				)
 			)
 		)
-		(property "Value" "1N4148"
+		(property "Value" "1N4148W"
 			(at 0 2.1 0)
 			(layer "F.Fab")
 			(uuid "caeb9b91-ee85-4cee-a652-f5b8fbf6c9aa")
