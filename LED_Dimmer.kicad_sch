@@ -5180,7 +5180,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "d5a7bf85-3151-494f-ba90-2cc1d356a129")
+			(uuid "d5a7bf85-3151-494f-ba90-2cc1d356a12a")
 		)
 		(instances
 			(project ""
@@ -7299,7 +7299,7 @@
 				)
 			)
 		)
-		(property "Value" "D_Schottky"
+		(property "Value" "SS0520_R1_00001"
 			(at 80.01 90.678 0)
 			(effects
 				(font
@@ -7472,7 +7472,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "d5a7bf85-3151-494f-ba90-2cc1d356a129")
+			(uuid "d5a7bf85-3151-494f-ba90-2cc1d356a12b")
 		)
 		(instances
 			(project ""
